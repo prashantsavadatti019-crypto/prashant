@@ -1,2 +1,3 @@
 # prashant
-created for mini project
+in read me file form github 
+created for mini projec
